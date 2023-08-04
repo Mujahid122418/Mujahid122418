@@ -1,3 +1,4 @@
+![logo](https://github.com/Mujahid122418/Mujahid122418/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mujahid Iqbal</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img
